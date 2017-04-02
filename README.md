@@ -6,13 +6,19 @@
 
 ## Speaker Bio - Andrew Connell
 
-Andrew Connell is full stack web developer that enjoys development, writing, teaching and is a twelve-time recipient of Microsoft's Most Valuable Professional (MVP) award. He focused on web related technologies including Microsoft's Azure & Office 365 platforms, the .NET Framework, Angular, JavaScript, Node.js... if it's cutting edge web you'll find Andrew there!
+## Speaker Bio - Andrew Connell
 
-Andrew teaches these topics through his numerous videos and courses through [Critical Path Training](http://www.CriticalPathTraining.com) and [Pluralsight](http://www.pluralsight.com/author/andrew-connell). You can check out what he’s currently up to, what's on his mind or where he's speaking on his [blog](http://www.andrewconnell.com), by following him on Twitter [@andrewconnell](http://www.twitter.com/andrewconnell) or subscribe to his cloud-related podcast, the [Microsoft Cloud Show](http://www.microsoftcloudshow.com).
+Andrew Connell is a full stack web developer with a focus on Microsoft Azure & Office 365, specifically the Office 365 APIs, SharePoint, Microsoft's .NET Framework / .NET Core, Angular, Node.js and Docker that enjoys development, writing & teaching… if it’s cutting edge web you’ll find Andrew there! He’s received Microsoft’s MVP award every year since 2005. Andrew has helped thousands of developers through the various courses he’s authored & taught both in-person & in online courses.
+
+Recently he launched his own on-demand video platform, [Voitanos](https://www.voitanos.io) to deliver his on-demand video training. Throughout the years Andrew has been fortunate enough to share what he has learned at conferences like Microsoft’s TechEd, Build, Ignite & SharePoint conferences, Angular’s ngConf & AngularU, SPTechCon, SP Live360 among many others all around the world in North America, Europe, Asia & Australia.
+
+You can find Andrew on his [popular blog](http://www.andrewconnell.com), follow him on Twitter [@andrewconnell](https://www.twitter.com/andrewconnell), check out some of the numerous projects he’s involved in on [GitHub](https://github.com/andrewconnell) or listen to his popular weekly podcast, the [Microsoft Cloud Show](http://www.microsoftcloudshow.com), which is focused on Microsoft cloud services such as Azure and Office 365 as well as the competitive cloud landscape.
+
 
 - blog: [www.andrewconnell.com](http://www.andrewconnell.com)
-- twitter: [@andrewconnell](http://www.twitter.com/andrewconnell)
-- github: [github.com / andrewconnell](http://github.com/andrewconnell)
+- twitter: [@andrewconnell](https://www.twitter.com/andrewconnell)
+- linkedin: [andrewconnell](https://www.linkedin.com/in/andrewconnell)
+- github: [github.com / andrewconnell](https://github.com/andrewconnell)
 - what I'm up to **now**: [andrewconnell.com/now](http://andrewconnell.com/now)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-59889067-1/pres-msgraph/readme)](https://github.com/igrigorik/ga-beacon)
