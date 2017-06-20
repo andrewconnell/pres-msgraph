@@ -13,11 +13,11 @@ https://developer.microsoft.com/en-us/graph
 
 ## use graph explorer for demos
 
-https://graph.microsoft.com/v1.0/me 
-https://graph.microsoft.com/v1.0/me/messages
-https://graph.microsoft.com/v1.0/me/contacts 
-https://graph.microsoft.com/v1.0/me/drive/root/children
-https://graph.microsoft.com/v1.0/me/events 
+- https://graph.microsoft.com/v1.0/me 
+- https://graph.microsoft.com/v1.0/me/messages
+- https://graph.microsoft.com/v1.0/me/contacts 
+- https://graph.microsoft.com/v1.0/me/drive/root/children
+- https://graph.microsoft.com/v1.0/me/events 
 
 
 ## paging results
