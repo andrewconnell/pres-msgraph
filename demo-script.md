@@ -113,7 +113,7 @@ https://developer.microsoft.com/en-us/graph
 1. View available schema extensions
 
     ```
-    GET https://graph.microsoft.com/beta/schemaExtensions/$filter=id eq 'graphlearn_test'
+    GET https://graph.microsoft.com/beta/schemaExtensions/?$filter=id eq 'graphlearn_test'
     ```
 
 1. Register a schema extension definition that describes a training course
